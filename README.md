@@ -4,10 +4,10 @@
 Features:
 
 - Base layer
-  - Mod-tap key on Caps Lock -> Caps Lock (tap), Fn layer 2 (hold)
+  - Layer-tap key on Caps Lock -> Caps Lock (tap), Fn layer 2 (hold)
   - Mod-tap key on Right Shift -> Up (tap), Right Shift (hold)
   - Mod-tap key on Right GUI -> Left (tap), Right GUI (hold)
-  - Mod-tap key on Fn -> Down (tap), Fn layer 1 (hold)
+  - Layer-tap key on Fn -> Down (tap), Fn layer 1 (hold)
   - Mod-tap key on Right Ctrl -> Right (tap), Right Ctrl (hold)
   
 - Layer 2
