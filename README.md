@@ -17,4 +17,4 @@ Features:
 
 - Use Chordal Hold to have the tap behavior between two MT/LT keys combo (except for layer 2), and hold behavior for a MT/LT and a normal key (through Hold On Other Key Press)
 
-[Download](https://github.com/KevinLy1/qmk_firmware/releases/tag/1.2)
+[Download](https://github.com/KevinLy1/qmk_firmware/releases)
